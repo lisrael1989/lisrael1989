@@ -33,7 +33,8 @@
   <li><a href="https://anieres.org/">Anieres</a></li>
 </ul> -->
 <h3>📫 Connect with Me:</h3>
-<table>
+
+<table >
   <tr>
     <td><a href="mailto:lisrael1989@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;" /></a></td>
     <td><a href="mailto:lisrael1989@gmail.com" style="vertical-align: middle; text-decoration: none; color: black;">lisrael1989@gmail.com</a></td>
@@ -43,3 +44,7 @@
     <td><a href="https://www.linkedin.com/in/israel-litvak-28baa682/" style="vertical-align: middle; text-decoration: none; color: black;">LinkedIn Profile</a></td>
   </tr>
 </table>
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lisrael1989&show_icons=true&locale=en&layout=compact" alt="Israel litvak" />
+
