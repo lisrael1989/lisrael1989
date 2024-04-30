@@ -19,8 +19,8 @@
 <ul>
   <li>🎓 Recently graduated from Coding Academy's Fullstack Bootcamp, where I learned modern web technologies and development techniques.</li>
   <li>🧲 An Autodidact, tech-loving geek, and a true team player! </li>
-<!--   <li>🌐 Developed over 10 projects and websites, providing additional marketing support to enhance client engagement and success beyond just website construction.</li>
-  <li>🔗 Check out my last project inspired by Airbnb: <a href="https://airstay-kybr.onrender.com/">AirStay</a>.</li> -->
+<!--   <li>🌐 Developed over 10 projects and websites, providing additional marketing support to enhance client engagement and success beyond just website construction.</li> -->
+  <li>🔗 Check out my last project inspired by Airbnb: <a href="https://airstay-kybr.onrender.com/">AirStay</a>.</li> 
   <li>💼 Extensive experience in the tech industry, including roles in sales and business development, with a deep understanding of client needs.</li>
   
 </ul>
