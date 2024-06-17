@@ -5,6 +5,9 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SASS"/>
+    <img src= "https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  
+
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" alt="jQuery"/>
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>
